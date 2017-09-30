@@ -172,8 +172,8 @@ ul#social li:nth-last-child(1){ margin-right:0; }
 /*ANIMATION*/
 /* The animation code */
 @keyframes example {
-    from {background-color: #4AAAA5;}
-    to {background-color: #000;}
+    from {background-color: #000;}
+    to {background-color: #4AAAA5;}
 }
 
 /* The element to apply the animation to */
